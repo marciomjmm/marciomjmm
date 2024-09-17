@@ -1,4 +1,4 @@
-### Olá, eu sou Marcio Macedo
+### Olá, eu sou Marcio Moraes Macedo
 
-- 🔭 Atualmente eu trabalho como Mecânico
-- 🌱 No momento estou estudando Python, para poder me aprofundar em Dados.
+- 🔭 Atualmente eu sou Técnico Mecânico e atuo como mecânico industrial.
+- 🌱 Estudante de Engenharia de Dados, com o intuíto de migrar de área.
